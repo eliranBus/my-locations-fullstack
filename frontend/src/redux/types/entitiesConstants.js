@@ -1,0 +1,1 @@
+export const TOGGLE_ENTITY = 'TOGGLE_ENTITY';
